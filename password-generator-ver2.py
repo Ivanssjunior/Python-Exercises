@@ -1,5 +1,5 @@
 import string
-from random import *
+from random import random
 
 import random
 
